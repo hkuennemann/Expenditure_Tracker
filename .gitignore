@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+sankey_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit and other runtime artifacts
+.streamlit/
+*.log
+
+# Jupyter/IDE
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Data
+/data/
+/exports/
+
